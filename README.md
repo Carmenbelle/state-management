@@ -1,5 +1,5 @@
 ### This repo is for a general purpose
-Here's the project it's linking to [https://medium.com/@carmieamba/baby-steps-with-usereducer-and-usestate-in-react-5273c599771d]
+[Here's the project it's linking to](https://medium.com/@carmieamba/baby-steps-with-usereducer-and-usestate-in-react-5273c599771d)
 
 # Getting Started with Create React App
 
