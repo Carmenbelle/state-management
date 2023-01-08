@@ -1,3 +1,6 @@
+### This repo is for a general purpose
+Here's the project it's linking to [https://medium.com/@carmieamba/baby-steps-with-usereducer-and-usestate-in-react-5273c599771d]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
